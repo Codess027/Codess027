@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codess027
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data and information
 - 🌱 I’m currently learning Python, SQL, R
 
 <!---
